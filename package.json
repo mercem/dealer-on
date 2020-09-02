@@ -1,0 +1,19 @@
+{
+  "name": "dealer-on-challenge",
+  "version": "1.0.0",
+  "description": "omer-cem-akyol's solution for challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "omer cem akyol",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "@types/node": "^14.6.2"
+  }
+}
